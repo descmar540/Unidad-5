@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+Ejercicio 1
+<datospaises>
+    <pais>
+        <nombre>Andorra</nombre>
+        <idiomaoficial>
+            <idioma>Catalán</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+376</prefijotelefonico>
+        <capital>
+            <nombre>Andorra la Vieja</nombre>
+            <poblacion>22256</poblacion>
+        </capital>
+    </pais>
+
+    <pais>
+        <nombre>Uganda</nombre>
+        <idiomaoficial>
+            <idioma>Inglés</idioma>
+            <idioma>Suajili</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+256</prefijotelefonico>
+        <capital>
+            <nombre>Kampala</nombre>
+            <poblacion>1208544</poblacion>
+        </capital>
+    </pais>
+
+    <pais>
+        <nombre>Eritrea</nombre>
+        <idiomaoficial>
+            <idioma>ninguno</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+291</prefijotelefonico>
+        <capital>
+            <nombre>Asmara</nombre>
+            <poblacion>578000</poblacion>
+        </capital>
+    </pais>
+
+    <pais>
+        <nombre>Cuba</nombre>
+        <idiomaoficial>
+            <idioma>español</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+53</prefijotelefonico>
+        <capital>
+            <nombre>La Habana</nombre>
+            <poblacion>2121871</poblacion>
+        </capital>
+    </pais>
+
+    <pais>
+        <nombre>Estonia</nombre>
+        <idiomaoficial>
+            <idioma>estonio</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+64</prefijotelefonico>
+        <capital>
+            <nombre>Tallin</nombre>
+            <poblacion>446055</poblacion>
+        </capital>
+    </pais>
+
+    <pais>
+        <nombre>Mongolia</nombre>
+        <idiomaoficial>
+            <idioma>Mongol</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+11</prefijotelefonico>
+        <capital>
+            <nombre>Ulán Bator</nombre>
+            <poblacion>1372000</poblacion>
+        </capital>
+    </pais>
+
+    <pais>
+        <nombre>Bielorrusia</nombre>
+        <idiomaoficial>
+            <idioma>bielorruso</idioma>
+            <idioma>ruso</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+817</prefijotelefonico>
+        <capital>
+            <nombre>Minsk</nombre>
+            <poblacion>2020600</poblacion>
+        </capital>
+    </pais>
+
+    <pais>
+        <nombre>Turkmenistan</nombre>
+        <idiomaoficial>
+            <idioma>turkomano</idioma>
+            <idioma>ruso</idioma>
+        </idiomaoficial>
+        <prefijotelefonico>+993</prefijotelefonico>
+        <capital>
+            <nombre>Asjabad</nombre>
+            <poblacion>1031992</poblacion>
+        </capital>
+    </pais>
+</datospaises>
+

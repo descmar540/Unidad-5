@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+Ejercicio 2
+
+Documento 1
+
+<figuras>
+    <figura forma="plana">
+        <nombre>cuadrado</nombre>
+        <lados>4</lados>
+    </figura>
+    <figura forma="plana">
+        <nombre>triángulo</nombre>
+        <lados>3</lados>
+    </figura>
+    <figura forma="tridimensional">
+        <nombre>cubo</nombre>
+        <aristas>12</aristas>
+        <caras>6</caras>
+    </figura>
+</figuras>
+
+Documento 2
+
+<triangulos>
+    <triangulo>
+        <base>7</base>
+        <altura>5</altura>
+    </triangulo>
+    <triangulo>
+        <base>2</base>
+        <altura>6</altura>
+    </triangulo>
+    <triangulo>
+        <base>3</base>
+        <altura>3</altura>
+    </triangulo>
+</triangulos>
+
+Documento 3
+
+<programas>
+    <programa>
+        <nombre>Firefox</nombre> 
+        <licencias>
+            <licencia>GPL</licencia> 
+            <licencia>MPL</licencia>
+    </programa>
+    <programa>
+        <nombre>LibreOffice</nombre> 
+        <licencias>
+            <licencia>LGPL</licencia> 
+    </programa>
+    <programa>
+        <nombre>Inkscape</nombre> 
+        <licencias>
+            <licencia>GPL</licencia> 
+    </programa>
+</programas>
+

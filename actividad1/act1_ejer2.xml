@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+Ejercicio 2
+
+Documento 1. 
+Errores en 
+- línea 12 (fallo etiqueta deporte apertura y cierre)
+- línea 14 (falta etiqueta cierre deportista)
+- línea 16 (fallo etiqueta deporte apertura y cierre)
+
+<deportistas>
+    <deportista>
+        <deporte>Atletismo</deporte>
+        <nombre>Jesse Owens</nombre>
+    </deportista>
+    <deportista>
+        <deporte>Natación</deporte>
+        <nombre>Mark Spitz</nombre>
+    </deportista>
+</deportistas>
+
+documento 2
+
+Hay que poner una primera etiqueta para abrir el apartado películas
+Lo de la última línea de Autor Barto se puede quitar, ya que no pertenece a ninguna películas
+
+<peliculas>
+    <pelicula>
+        <titulo>Con faldas y a lo loco</titulo>
+        <director>Billy Wilder</director>
+    </pelicula>
+    <pelicula>
+        <director>Leo McCarey</director>
+        <titulo>Sopa de ganso</titulo>
+    </pelicula>
+<peliculas>
+
+documento 3
+Error en alias cerrando, tiene que estar en la misma línea
+Error en Graduación cerrando, tiene que estar en minúscula
+error en nombre abriendo, no puede estar separado
+error en alias, tiene que ponerse la barra al final si está vacío
+error en COMANDO, tiene que estar en minúscula
+error en nombre, tiene que estar en la misma línea para abrir
+error en pais, hay que poner la barra para cerrar
+error al final, hay que cerrar etiqueta comandos
+
+<comandos>
+    <comando>
+        <nombre>Jack O'Hara</nombre>
+        <alias>Boina verde</alias>
+        <pais>Irlanda</pais>
+        <graduacion>Sargento</graduacion>
+    </comando>
+    <comando>
+        <nombre>Sir Francis T. Woolridge</nombre>
+        <alias/>
+        <pais>Inglaterra</pais>
+        <graduacion>Soldado</graduacion>
+    </comando>
+    <comando>
+        <nombre>James Blackwood</nombre
+        >
+        <alias>Marine</alias>
+        <pais>Australia</pais>
+        <graduacion>Soldado</graduacion>
+    </comando>
+    <comando>
+        <nombre>Thomas Hancock</nombre>
+        <alias>Zapador</alias>
+        <país>Inglaterra</pais>
+        <graduacion>Soldado</graduacion>
+    </comando>
+</comandos>
+
+

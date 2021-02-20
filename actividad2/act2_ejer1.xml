@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+Ejercicio 1
+
+<equiposfutbol>
+    <equipo>
+        <nombre>Osasuna</nombre>
+        <ciudad>Pamplona</ciudad>
+        <entrenador>Jagoba Arrasate</entrenador>
+        <jugador>
+            <nombre>Oier Sanjurgo</nombre>
+            <posicion>mediocentro</posicion>
+            <nacionalidad>español</nacionalidad>
+        </jugador>
+        <jugador>
+            <nombre>Roberto Torres</nombre>
+            <posicion>mediocentro</posicion>
+            <nacionalidad>español</nacionalidad>
+        </jugador>
+    </equipo>
+    <equipo>
+        <nombre>Real Sociedad</nombre>
+        <ciudad>Donosti</ciudad>
+        <entrenador>Imanol Alguacil</entrenador>
+        <jugador>
+            <nombre>Adnan Januzaj</nombre>
+            <posicion>extremo derecho</posicion>
+            <nacionalidad>albanokosovar</nacionalidad>
+        </jugador>
+        <jugador>
+            <nombre>Alexander Isaak</nombre>
+            <posicion>delantero</posicion>
+            <nacionalidad>sueco</nacionalidad>
+        </jugador>
+    </equipo>
+</equiposfutbol>

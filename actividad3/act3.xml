@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+Actividad 3
+
+XML + CDATA
+
+<lenguajes>
+    <lenguaje>
+        <nombre>Java</nombre>
+        <autor>Kevin Mitnick</autor>
+        <fecha>1992</fecha>
+        <contenido><![CDATA[
+                            public class HolaMundo {
+                                public static void main(String[] args) {
+                                        System.out.println("Hola Mundo");
+                                }
+                            }
+                    ]]>
+        </contenido>
+    </lenguaje>
+    <lenguaje>
+        <nombre>C++</nombre>
+        <autor>Raven Adler</autor>
+        <fecha>2007</fecha>
+        <contenido><![CDATA[
+                        #include <iostream>
+                        using namespace std;
+                        int main() {
+                            cout << "Hola Mundo" << endl;
+                            return 0;
+                        }
+                    ]]>
+        </contenido>
+    </lenguaje>
+    <lenguaje>
+        <nombre>Html</nombre>
+        <autor>Kevin Poulsen</autor>
+        <fecha>2005</fecha>
+        <contenido><![CDATA[
+                            <!DOCTYPE html>
+                            <html>
+                                    <head>
+                                    <title>Hola Mundo</title>
+                                    <meta name="author" value="Kevin Poulsen"/>
+                                    </head>
+                                    <body>
+                                            <h1>Hola</h1>
+                                            <p>Hola mundo!</p>
+                                    </body>
+                            </html>
+                    ]]>
+        </contenido>
+    </lenguaje>
+</lenguajes>
